@@ -26,7 +26,7 @@
 
 | 구분 | 기술 및 개발 범위 |
 | :--- | :--- |
-| **언어** | Python, Java |
+| **언어** | Python, Java, C |
 | **백엔드 프레임워크** | Django, Django REST Framework, Spring |
 | **API·인증** | REST API, JWT 인증·토큰 갱신, 사용자별 접근 권한, 요청·응답 명세 |
 | **데이터 처리** | 관계형 데이터 모델 설계, Django ORM, 입력 검증, 데이터베이스 고유성 제약 |
